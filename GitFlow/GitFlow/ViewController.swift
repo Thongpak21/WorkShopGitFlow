@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the dfgfkgge[ot[pre[gore[ogreo[view, typically from a nib.
+        // Do any additional setup after loading the dfgfkgge[ot[pre[gore[ogreo[view, typically from a nib.sadasp[dksdfdsf
     }
 
     override func didReceiveMemoryWarning() {
