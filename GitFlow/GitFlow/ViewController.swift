@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the dfgfkgge[ot[pre[gore[ogreo[view, typically from a nib.sadasp[dksdfdsf
     }
-    sadsad
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
